@@ -71,11 +71,11 @@
 
 + [技术教学网站](#技术教学网站)
 
-+ [Bash or shell](#Bash or shell)
++ [shell](#shell)
 
-+ [一些有趣得开源组织](#一些有趣得开源组织)
++ [开源组织](#开源组织)
 
-+ [优秀技术博主](#优秀技术博主)
++ [博主](#博主)
 
 + [技术博客](#技术博客)
 
@@ -1234,7 +1234,7 @@ https://awesome-python.com/
 >
 > https://www.shellcheck.net/
 
-#### 一些有趣的学习开源组织
+#### 开源组织
 
 > https://github.com/overnote
 >
@@ -1261,7 +1261,7 @@ https://awesome-python.com/
 > `简介` 国内顶尖团队的开源地址
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
-#### GitHub上一些优秀的博主
+#### 博主
 
 > https://github.com/codediodeio
 >
