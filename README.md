@@ -394,6 +394,39 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://github.com/javadevbooks/books
+>
+> `简介` 编程电子书目录带下载地址
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/Astringentfruit/Collection-of-e-book-download-and-search-sites
+>
+> `简介` 电子书下载和搜索网站的合集
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://wenku.it/search/?wd=linux
+>
+> `简介` IT文库
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
+#### Docker
+
+> https://docker.easydoc.net/doc/81170005/cCewZWoN/lTKfePfP
+>
+> `简介` Docker 快速入门
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️、
+
+> https://dockerlabs.collabnix.com/
+>
+> `简介` Getting Started with Docker
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 #### WEB安全
 
 > https://github.com/chaitin/SafeLine
@@ -461,6 +494,48 @@
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 
+> https://github.com/3218870799/-Note
+>
+> `简介` 🥇不断发育并完善中的从小白到架构师的知识总结。
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://liaoxuefeng.com/blogs/all/2020-04-07-high-performance-exchange/index.html
+>
+> `简介` 高性能交易系统设计原理
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+ 
+> https://www.thebyte.com.cn/
+>
+> `简介` 深入架构原理与实践
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://icyfenix.cn/
+>
+> `简介` 凤凰架构
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/donnemartin/system-design-primer
+>
+> `简介` Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://www.karanpratapsingh.com/courses/system-design
+>
+> `简介` System Design
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/ByteByteGoHq/system-design-101
+>
+> `简介` Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 #### 综合的掌握
 
 > https://bugstack.cn/
@@ -502,7 +577,13 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+#### Bash or shell
 
+> https://github.com/ruanyf/simple-bash-scripts
+>
+> `简介` A collection of simple Bash scripts
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 #### 一些有趣的学习开源组织
 
@@ -550,7 +631,13 @@
 
 > https://ng-tech.icu/books-gallery/
 >
-> `简介`
+> `简介` 
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://learn.lianglianglee.com/
+>
+> `简介` 技术摘抄
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
@@ -578,6 +665,14 @@
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 > https://www.iteye.com/
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+#### 前端
+
+> https://semi.design/zh-CN/start/getting-started
 >
 > `简介`
 >
