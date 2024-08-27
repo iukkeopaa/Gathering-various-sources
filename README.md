@@ -195,6 +195,14 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+#### Mycat
+
+> https://www.yuque.com/ccazhw/ml3nkf?
+>
+> `简介` Mycat2权威指南
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 
 #### 测试
 
@@ -394,6 +402,138 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://blog.csdn.net/weixin_70208651/article/details/139552676
+>
+> `简介` Linux网络命令：网络工具netcat详解
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://www.modb.pro/db/79021
+>
+> `简介` 做一个实用的集群文件分发脚本 xsync
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://blog.csdn.net/qq_41874544/article/details/134986740
+>
+> `简介` 集群分发脚本xsync简单使用
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://www.jianshu.com/p/a1edff39b5f5
+>
+> `简介` 大数据集群 xsync文件同步脚本
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://zhuanlan.zhihu.com/p/377557611
+>
+> `简介` xsync同步脚本
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://cloud.tencent.com/developer/article/2078844
+>
+> `简介` Linux集群分发脚本xsync[通俗易懂]
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://cloud.tencent.com/developer/article/2091671
+>
+> `简介` 简单教你写xsync和xcall的脚本
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://www.cnblogs.com/zpan2019/p/13037540.html
+>
+> `简介` 集群文件同步脚本工具rsync、xsync和xcall
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://www.cnblogs.com/guohaoblog/p/13210058.html
+>
+> `简介` 大数据集群脚本xcall和xsync
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://blog.csdn.net/weixin_42175752/article/details/140475502
+>
+> `简介` 深入解析rsync：定义、架构、原理、应用场景及实战指南
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://zhuanlan.zhihu.com/p/659314811
+>
+> `简介` linux中rsync这一强大命令的用法详解
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://zhuanlan.zhihu.com/p/51749905
+>
+> `简介` Linux 命令详解：SFTP
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://worktile.com/kb/ask/399518.html
+>
+> `简介` linux相互传输文件命令
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://www.cnblogs.com/zzjdbk/p/14078298.html
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://blog.csdn.net/weixin_46357988/article/details/139717688
+>
+> `简介` wget命令常用详解
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://zhuanlan.zhihu.com/p/689198256
+>
+> `简介` Linux系统-详解 wget 命令
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://blog.csdn.net/weixin_70208651/article/details/140308011
+>
+> `简介` Linux网络命令：网络工具socat详解
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://blog.csdn.net/qq_35995514/article/details/139486688
+>
+> `简介` 【Linux】ip命令详解
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://www.cnblogs.com/tinyblog/p/17874050.html
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://www.kancloud.cn/luke8327/phpwolf/3223741
+>
+> `简介` Linux 定时任务（超详细）
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://www.cjavapy.com/article/3183/
+>
+> `简介` Linux 设置定时任务常用的三种方法
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/wovert/LinuxSRE
+>
+> `简介` Linux 运维工程师技能总结
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 #### 代码注释
 
 > https://blog.csdn.net/vbirdbest/article/details/78995793
@@ -421,7 +561,27 @@
 > `简介` Tools-web
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
-## 专项的精进
+
+> https://blog.csdn.net/weixin_45565886/article/details/137357265
+>
+> `简介` 新人程序员必备在线工具推荐（cron、加解密、JSON、AI）
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+#### 技术路线
+
+> https://www.cnblogs.com/yuncloudjava/p/15331061.html
+>
+> `简介` 掌握全栈的技术路线
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://blog.csdn.net/doudoulihaining/article/details/136245075
+>
+> `简介` 史上最全全栈技术大盘点[2024完整版]
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+#### 专项的精进
 
 #### 设计模式
 
@@ -561,6 +721,15 @@
 > `简介` serve as a reverse proxy to protect your web services from attacks and exploits.
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+#### WEB开发
+
+> https://www.yuque.com/sflyq/web-develop
+>
+> `简介` 大话WEB开发
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 
 #### 项目实战
 
@@ -786,6 +955,12 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://www.jb51.net/
+>
+> `简介` 脚本之家
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 #### Bash or shell
 
 > https://github.com/ruanyf/simple-bash-scripts
@@ -869,6 +1044,12 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://www.karanpratapsingh.com/courses/system-design/ip
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 #### 数学建模
 
 > https://github.com/personqianduixue/Math_Model
@@ -908,6 +1089,12 @@
 > https://www.91wink.com/
 >
 > `简介` 独立开发前线
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://segmentfault.com/blogs
+>
+> `简介`
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 #### 前端
