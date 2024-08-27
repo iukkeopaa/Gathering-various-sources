@@ -71,7 +71,7 @@
 
 + [技术教学网站](#技术教学网站)
 
-+ [BashShell](#BashShell)
++ [Bash or shell](#Bash or shell)
 
 + [一些有趣得开源组织](#一些有趣得开源组织)
 
