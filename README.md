@@ -69,7 +69,62 @@
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 
+> https://github.com/hadyang/interview
+>
+> `简介` Java 笔试、面试 知识整理
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+>
 
+> https://github.com/xbox1994/Java-Interview
+>
+> `简介` 经历BAT面试后总结的【高级Java后台开发面试指南】，纯净干货无废话，针对高频面试点
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
+> https://github.com/hansonwang99/JavaCollection
+>
+> `简介` Java开源项目之「自学编程之路」：学习指南+面试指南+资源分享+技术文章
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/shishan100/Java-Interview-Advanced
+> 
+> `简介` 中华石杉--互联网Java进阶面试训练营
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/NotFound9/interviewGuide
+>
+> `简介` 《大厂面试指北》——包括Java基础、JVM、数据库、mysql、redis、计算机网络、算法、数据结构、操作系统、设计模式、系统设计、框架原理
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/cosen1024/Java-Interview
+>
+> `简介` 「Java面试小抄」一份通向理想互联网公司的面试汇总，包括 Java基础、Java并发、JVM、MySQL、Redis、Spring、MyBatis、Kafka、计算机操作系统、计算机网络、系统设计、分布式、Java 项目实战等
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/Tyson0314/Java-learning
+>
+> `简介` Java相关知识总结，包括Java基础、MySQL、Springboot、mybatis、Redis、rabbitMQ等等，面试必备！
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://pdai.tech/
+>
+> `简介` Java 全栈知识体系
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
+> https://github.com/moxi624/LearningNotes
+>
+> `简介` Java学习笔记，主要来源于B站上视频的学习，同时会记录平时一些学习和项目中遇到的问题，同步更新在蘑菇博客，如果对我的博客网站感兴趣的话，欢迎关注我的 蘑菇博客项目 笔记主要涵盖：Java，Spring，SpringCloud，计算机网络，操作系统，数据结构，Vue等 如果笔记对您有帮助的话，欢迎star支持，谢谢~
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 
 
@@ -80,6 +135,26 @@
 
 
 ## 专项的精进
+
+#### 设计模式
+
+> https://github.com/youlookwhat/DesignPattern
+>
+> `简介` 📚 Java 23种设计模式全归纳
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://www.runoob.com/design-pattern/design-pattern-tutorial.html
+>
+> `简介` 菜鸟教程
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://refactoringguru.cn/design-patterns/catalog
+>
+> `简介` 一个有趣的学习设计模式的网站
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 
 
