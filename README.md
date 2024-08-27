@@ -135,6 +135,59 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+ 
+> https://developer.aliyun.com/article/945903?source=5176.11533457&userCode=e4nptrfl
+>
+> `简介` 后端思维之数据库性能优化方案
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/YufeizhangRay/MySQL
+>
+> `简介` MySQL性能优化分析
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://www.cnblogs.com/annsshadow/p/5037667.html
+>
+> `简介` 步步深入：MySQL架构总览->查询执行流程->SQL解析顺序
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://wangchujiang.com/mysql-tutorial/
+>
+> `简介` Mysql
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://shlomi-noach.github.io/awesome-mysql/
+>
+> `简介` awesome-mysql
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://zhuanlan.zhihu.com/p/113173133
+>
+> `简介` 【SQL】SQL面试50题 分类梳理与解答
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+#### k8s
+
+> https://jimmysong.io/book/kubernetes-handbook/architecture/perspective/
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+#### 测试
+
+> https://testerhome.com/articles/21178
+>
+> `简介` 一文搞懂性能测试常见指标
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 #### 即时通讯
  
 > http://www.52im.net/
@@ -319,6 +372,31 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://linuxcommand.org/
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+#### 代码注释
+
+> https://blog.csdn.net/vbirdbest/article/details/78995793
+>
+> `简介` 佛祖保佑永无BUG 神兽护体 代码注释(各种版本)
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://www.cnblogs.com/LearningFromyou/p/17465705.html
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://cloud.tencent.com/developer/article/1832233
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 #### 在线工具网站
 
@@ -502,9 +580,21 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://nxwz51a5wp.feishu.cn/docs/doccnKV6gYLVLrMz5MLBTfXCKFd
+>
+> `简介` 
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 > https://geektutu.com/post/high-performance-go.html
 >
 > `简介` Go 语言高性能编程
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://soulmachine.gitbooks.io/system-design/content/cn/
+>
+> `简介` 系统设计面试题精选
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
@@ -526,6 +616,18 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+
+> https://www.yuque.com/fuxuemingzhu/ddia/hqu56x
+>
+> `简介` 数据密集型应用
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://mit-public-courses-cn-translatio.gitbook.io/mit6-824
+>
+> `简介` MIT6.824
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 > https://github.com/3218870799/-Note
 >
