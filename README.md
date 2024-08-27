@@ -127,7 +127,13 @@
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 
+#### Mysql
 
+> http://www.xuesql.cn/
+> 
+> `简介` 自学sql网
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 #### GO
 
@@ -201,6 +207,12 @@
 
 > https://github.com/murahmeriahsekali/rubyhan1314
 >
+> `简介` 未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/0voice/Introduction-to-Golang
+>
 > `简介`
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
@@ -262,6 +274,18 @@
 > https://chai2010.cn/advanced-go-programming-book/index.html
 >
 > `简介` Go语言高级编程(Advanced Go Programming)
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://www.dstgo.cn/guide.html
+>
+> `简介` Golang中文学习文档
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://www.jb51.net/article/281750.htm
+>
+> `简介` Golang简介与基本语法的学习
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
@@ -374,8 +398,20 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+#### 高并发和系统架构
 
-## 综合的掌握
+> https://pphc.lvwenhan.com/
+>
+> `简介` 高并发的哲学原理
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://tonydeng.github.io/architect-manual/
+>
+> `简介` 架构师手册
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+#### 综合的掌握
 
 > https://bugstack.cn/
 >
@@ -390,7 +426,7 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
-## 技术教学网站
+#### 技术教学网站
 
 > https://www.itying.com/category-79-b0-min0-max0-attr0.4916.html
 >
@@ -410,7 +446,7 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
-## 一些有趣的学习开源组织
+#### 一些有趣的学习开源组织
 
 > https://github.com/overnote
 >
@@ -425,7 +461,13 @@
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 
-## GitHub上一些优秀的博主
+> https://github.com/0voice
+>
+> `简介` 0voice
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+#### GitHub上一些优秀的博主
 
 > https://github.com/codediodeio
 >
@@ -433,7 +475,7 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
-## 技术博客
+#### 技术博客
 
 
 > https://github.com/yongxinz/tech-blog
@@ -448,7 +490,7 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
-## 数学建模
+#### 数学建模
 
 > https://github.com/personqianduixue/Math_Model
 >
@@ -456,5 +498,19 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+#### 交流论坛
+
+> https://www.v2ex.com/
+>
+> `简介` V2EX
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
+> https://duoke360.com/
+>
+> `简介` 多课网
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 
