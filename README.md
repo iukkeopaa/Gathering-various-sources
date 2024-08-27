@@ -135,6 +135,14 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+#### 即时通讯
+ 
+> http://www.52im.net/
+>
+> `简介` 即时通讯网
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 #### GO
 
 > https://github.com/unknwon/go-study-index?tab=readme-ov-file
@@ -579,6 +587,38 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://nxwz51a5wp.feishu.cn/docs/doccnTYWSZg4v9bYTQH8hXkGJPc
+>
+> `简介` 
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://pdos.csail.mit.edu/6.824/
+>
+> `简介` 6.5840: Distributed Systems
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://juejin.cn/post/6844903782350848008
+>
+> `简介` 各大互联网公司架构演进之路汇总
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
+> https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/thing_01/
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://distsys.cn/t/ddia
+>
+> `简介` DDIA
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
 #### 综合的掌握
 
 > https://bugstack.cn/
@@ -597,6 +637,14 @@
 > https://offernow.cn/s/language
 > 
 > `简介` 编程语言
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+#### 微服务
+
+> https://docshome.gitbook.io/microservices/0-foreword
+>
+> `简介` 微服务
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
@@ -693,6 +741,13 @@
 > https://blog.qizong007.top/
 >
 > `简介` 王帅真技术博客
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
+> https://blog.qizong007.top/system-design-resource
+>
+> `简介` 系统设计资源
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
