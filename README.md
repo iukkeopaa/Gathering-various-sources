@@ -22,6 +22,18 @@
 >
 > 推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://light-city.github.io/stories_things/basic_content/const/
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://light-city.github.io/
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 #### JAVA
 
 
@@ -126,6 +138,12 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://javaguide.cn/
+>
+> `简介` JavaGuide
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 
 #### Mysql
 
@@ -135,10 +153,33 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
- 
+> https://github.com/h2pl/JavaTutorial/blob/master/docs/database/%E9%87%8D%E6%96%B0%E5%AD%A6%E4%B9%A0MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%EF%BC%9A%E4%BB%A5Java%E7%9A%84%E8%A7%86%E8%A7%92%E6%9D%A5%E8%81%8A%E8%81%8ASQL%E6%B3%A8%E5%85%A5.md
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/bage2014/study
+>
+> `简介` Java全栈工程师学习笔记
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/jmilktea/jtea
+>
+> `简介` jtea 专注于java,spring,springboot,springcloud,各类中间件,总结开发经验
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 > https://developer.aliyun.com/article/945903?source=5176.11533457&userCode=e4nptrfl
 >
 > `简介` 后端思维之数据库性能优化方案
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+ 
+> https://github.com/Java-Edge/Java-Interview-Tutorial
+> 
+> `简介` 涵盖国际大厂Java/数据库/DDD/设计模式/微服务/中间件/AI大模型应用/区块链开发最佳实践。关注公众号【JavaEdge】，一起交流学习！
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
@@ -579,6 +620,46 @@
 > `简介`
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
+>
+> https://www.processon.com/
+
+> https://highlightcode.com/
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://algorithm-visualizer.org/
+
+> https://tools.pdf24.org/zh/
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://www.waifu2x.net/
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://tools.miku.ac/
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> http://guozhivip.com/tool/
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://web.baimiaoapp.com/
+>
+> `简介` - 图片文字提取（OCR）
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 #### 技术路线
 
@@ -705,6 +786,30 @@
 >
 > https://github.com/forthespada/CS-Books?tab=readme-ov-file
 
+> https://github.com/Tyson0314/java-books
+>
+> `简介` 程序员常读书单整理，附下载地址，希望对你有帮助。书单包括设计模式、计算机网络、操作系统、数据库、数据结构与算法、架构、中间件等等。本仓库持续更新中，可以star一下，下次找书直接在上面搜索
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+>  https://github.com/CasterWx/free-programming-books
+>
+> `简介` 免费的计算机书籍资源，欢迎投稿添加
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://www.jiumodiary.com/
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://www.runoob.com/
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 
 #### Docker
 
@@ -816,6 +921,12 @@
 > https://dunwu.github.io/design/pages/000a7b/#%E7%A7%92%E6%9D%80%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%A7%A3%E5%86%B3%E6%80%9D%E8%B7%AF
 >
 > `简介` 系统架构面试
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://soulmachine.gitbooks.io/system-design/content/cn/distributed-id-generator.html
+>
+> `简介`
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
@@ -939,6 +1050,12 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://github.com/resumejob/How-to-design-a-spike-system
+>
+> `简介` 如何设计一个秒杀系统
+> 
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 > https://offernow.cn/s/language
 > 
 > `简介` 编程语言
@@ -983,6 +1100,17 @@
 >
 > https://www.ydlclass.com/ui/noteDownload
 
+> https://www.iamshuaidi.com/
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://www.imangodoc.com/
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 #### Bash or shell
 
 > https://github.com/ruanyf/simple-bash-scripts
@@ -1012,6 +1140,12 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+
+> https://github.com/niezhiyang/open_source_team
+>
+> `简介` 国内顶尖团队的开源地址
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 #### GitHub上一些优秀的博主
 
 > https://github.com/codediodeio
@@ -1210,6 +1344,8 @@
 > https://www.canva.com/
 >
 > https://www.zxgj.cn/g/yansezhi
+>
+> https://q.shanyue.tech/
 
 #### 后端
 
@@ -1231,12 +1367,48 @@
 > 
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://github.com/phodal/growth-ebook
+>
+> `简介` Growth Engineering: The Definitive Guide。全栈增长工程师指南
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/kamranahmedse/developer-roadmap
+>
+> `简介` Interactive roadmaps, guides and other educational content to help developers grow in their careers
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://frank-lam.github.io/fullstack-tutorial/#/introduction
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 #### 面试
 
 > https://github.com/wolverinn/Waking-Up
 >
 > `简介` 计算机基础
 >
->推荐指数 ⭐️⭐️⭐️⭐️⭐️ 
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/hong52ni/JavaAdvance-Interview
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+>
+> https://github.com/LittleY98/Pentagram
+
+#### 事务
+
+> https://hit-alibaba.github.io/interview/Server/db/Transaction.html
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
 
 
