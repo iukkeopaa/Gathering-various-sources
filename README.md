@@ -40,9 +40,9 @@
 
 
 
+> https://liaoxuefeng.com/books/java/introduction/index.html
 >
->
-> `简介`
+> `简介` Crypto Michael的学习网站
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
@@ -131,6 +131,19 @@
 
 #### GO
 
+> https://github.com/unknwon/go-study-index?tab=readme-ov-file
+>
+> `简介` Go 语言学习资料索引
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://www.liwenzhou.com/
+>
+> `简介` 李文周的博客
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
 #### Linux
 
 
@@ -157,8 +170,60 @@
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 
+> https://github.com/me115/design_patterns
+>
+> `简介` 图说设计模式
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://tech.meituan.com/2022/03/10/interesting-talk-about-design-patterns.html
+>
+> `简介` 美团技术团队的设计模式二三事
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
+> https://segmentfault.com/a/1190000030850326
+>
+> `简介` segmentfault上阿宝哥的设计模式资料
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://bugstack.cn/md/develop/design-pattern/2020-05-20-%E9%87%8D%E5%AD%A6Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F%E3%80%8B.html
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://www.cnblogs.com/forestwolf/p/18120957
+>
+> `简介` 设计模式
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+#### 算法
+
+> https://kamacoder.com/
+>
+> `简介` kamacoder网
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://programmercarl.com/
+>
+> `简介` 《代码随想录》网站
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 
 ## 综合的掌握
+
+> https://bugstack.cn/
+>
+> `简介`  小傅哥 bugstack 虫洞栈
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 
 
 
