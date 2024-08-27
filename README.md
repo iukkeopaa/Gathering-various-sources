@@ -180,6 +180,22 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+#### awk
+
+> https://www.junmajinlong.com/shell/awk/awk_examples/
+>
+> `简介` 18个awk的经典实战案例
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
+> https://likegeeks.com/awk-command/
+>
+> `简介` 30 Examples for Awk Command in Text Processing
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
 #### 测试
 
 > https://testerhome.com/articles/21178
