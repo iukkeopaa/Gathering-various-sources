@@ -305,7 +305,20 @@
 
 #### Linux
 
+> https://github.com/dunwu/linux-tutorial
+>
+> `简介` 🐧 Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+
+#### 在线工具网站
+
+> https://tools.ranblogs.com/
+> 
+> `简介` Tools-web
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 ## 专项的精进
 
 #### 设计模式
@@ -427,6 +440,18 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://docker.p2hp.com/
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://vuepress.mirror.docker-practice.com/#
+>
+> `简介` Docker — 从入门到实践
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 #### WEB安全
 
 > https://github.com/chaitin/SafeLine
@@ -536,6 +561,24 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://www.cnblogs.com/crazymakercircle/p/17168230.html
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://www.geeksforgeeks.org/system-design-tutorial/
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://learning-guide.gitbook.io/system-design-interview
+>
+> `简介` System Design Interview
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 #### 综合的掌握
 
 > https://bugstack.cn/
@@ -641,6 +684,18 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://www.codexiaofei.com/
+>
+> `简介` 码农小飞哥
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://blog.qizong007.top/
+>
+> `简介` 王帅真技术博客
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 #### 数学建模
 
 > https://github.com/personqianduixue/Math_Model
@@ -670,6 +725,18 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://bitfree.cn/home
+>
+> `简介` 极海开发者社区
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
+> https://www.91wink.com/
+>
+> `简介` 独立开发前线
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 #### 前端
 
 > https://semi.design/zh-CN/start/getting-started
