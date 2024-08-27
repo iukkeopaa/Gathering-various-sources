@@ -567,6 +567,18 @@
 > `简介` 新人程序员必备在线工具推荐（cron、加解密、JSON、AI）
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
+ 
+> https://tools.frankfeekr.cn/
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://gesdh.cn/
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 #### 技术路线
 
@@ -654,6 +666,8 @@
 > `简介` 101+ coding interview problems in Go
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
+>
+> https://github.com/krahets/LeetCode-Book
 
 #### 书籍
 
@@ -686,6 +700,10 @@
 > `简介` IT文库
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
+>
+> https://github.com/codeteenager/ebook
+>
+> https://github.com/forthespada/CS-Books?tab=readme-ov-file
 
 
 #### Docker
@@ -960,6 +978,10 @@
 > `简介` 脚本之家
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
+>
+> https://www.code-nav.cn/course
+>
+> https://www.ydlclass.com/ui/noteDownload
 
 #### Bash or shell
 
@@ -1004,6 +1026,12 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://github.com/halfrost
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 #### 技术博客
 
 
@@ -1036,6 +1064,8 @@
 > `简介` 王帅真技术博客
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
+>
+> https://www.bozhu12.cc/backend/afbo8k/#docker
 
 
 > https://blog.qizong007.top/system-design-resource
@@ -1049,6 +1079,8 @@
 > `简介`
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
 
 #### 数学建模
 
@@ -1097,12 +1129,114 @@
 > `简介`
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
-#### 前端
+>
+> https://www.dengruicode.com/
+
+
+
+#### 前端（Vue）
 
 > https://semi.design/zh-CN/start/getting-started
 >
 > `简介`
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://vue3.github.io/vue3-News/
+>
+> `简介` Vue 3.0 训练营
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+>
+> https://github.com/zxwk2024/vue-admin-better?tab=readme-ov-file
+>
+> https://github.com/opendigg/awesome-github-vue
+>
+> https://www.dengruicode.com/
+>
+> https://layout.bradwoods.io/
+>
+> https://bennettfeely.com/clippy/
+>
+> https://web.dev/about?hl=zh-cn
+>
+> https://cssgradient.io/
+>
+> https://html-css-js.com/css/generator/box-shadow/
+
+#### Less
+
+> https://lesscss.cn/
+
+#### UI库
+
+>
+>https://github.com/codeteenager/ebook
+
+#### Git
+
+> https://github.com/Eished/git_notes
+>
+> https://github.com/HuChanghong/learngit
+>
+> https://github.com/arslanbilal/git-cheat-sheet
+
+#### 实战项目
+
+> https://github.com/HalseySpicy/Geeker-Admin?tab=readme-ov-file
+>
+> `简介` ✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+>
+> https://www.yuque.com/zhangshuaiyin/guli-mall
+
+#### 杂项
+
+> https://www.frankfeekr.cn/author/
+> 
+>https://panjiachen.github.io/vue-element-admin/#/i18n/index
+>
+> https://github.com/Ileriayo/markdown-badges
+>
+> https://emojipedia.org/
+>
+> https://giphy.com/explore/super
+>
+> https://codepen.io/https://codepen.io/
+>
+> https://github.com/nucliweb/People-You-Should-Follow-on-CodePen
+>
+> https://www.canva.com/
+>
+> https://www.zxgj.cn/g/yansezhi
+
+#### 后端
+
+> https://github.com/xingshaocheng/architect-awesome
+>
+> `简介` 后端架构师技术图谱
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://cyc2018.xyz/#%E7%AE%97%E6%B3%95
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/monklof/Back-End-Developer-Interview-Questions
+>
+> `简介` 后端开发面试题
+> 
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+#### 面试
+
+> https://github.com/wolverinn/Waking-Up
+>
+> `简介` 计算机基础
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️ 
 
 
