@@ -143,6 +143,74 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://github.com/yangwenmai/learning-golang
+>
+> `简介` Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/LearnGolang/LearnGolang?tab=readme-ov-file
+>
+> `简介` 《Golang学习资源大全-只有Go语言才能改变世界》Only Golang Can Change The World.
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://gitee.com/moxi159753/LearningNotes/tree/master/Golang/Gin%E6%A1%86%E6%9E%B6/
+>
+> `简介` 来源于bilibili七米老师的视频教程：https://www.bilibili.com/video/BV1gJ411p7xC
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/shockerli/go-awesome?tab=readme-ov-file
+>
+> `简介` Go 语言优秀资源整理，为项目落地加速🏃
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
+> https://topgoer.com/
+>
+> `简介` Go语言中文文档
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
+> https://www.yuque.com/xinliangnote/go-gin-api/ngc3x5
+>
+> `简介` 新亮的技术博客
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/skyhee/gin-doc-cn
+>
+> `简介` go 语言框架 gin 的中文文档
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://youngxhui.top/
+>
+> `简介` 综合的技术博客
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/xuyisu/fw-go-learning
+>
+> `简介` go 学习(成长之路) 这是一本学习Go 语言的教程，设计基础语法、redis、mongo、mysql、restful api、gorm、xorm、zap、gin、iris、echo、beego、项目实战、微服务应用等
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/murahmeriahsekali/rubyhan1314
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/yinggaozhen/awesome-go-cn
+>
+> `简介` 一个很棒的Go框架、库和软件的中文收录大全。:alarm_clock:脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 
 #### Linux
 
@@ -216,6 +284,31 @@
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 
+#### 书籍
+
+> https://github.com/singgel/golang
+>
+> `简介` 书籍
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+#### WEB安全
+
+> https://github.com/chaitin/SafeLine
+>
+> `简介` serve as a reverse proxy to protect your web services from attacks and exploits.
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+#### 项目实战
+
+> https://github.com/resumejob/free-project-course
+> 
+> `简介` Free course for Resume, 整理和搜集网络免费的项目实战课程，包括 Java 项目实战，Python 项目实战，C++ 项目实战等
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
 ## 综合的掌握
 
 > https://bugstack.cn/
@@ -224,6 +317,20 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+
+> https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#go
+>
+> `简介` 基于项目的教程精选列表
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+## 技术教学网站
+
+> https://www.itying.com/category-79-b0-min0-max0-attr0.4916.html
+>
+> `简介` IT营
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 
 
