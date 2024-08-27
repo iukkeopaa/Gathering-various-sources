@@ -247,6 +247,26 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://github.com/yongxinz/gopher
+>
+> `简介` Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战开发，面试刷题，必读书单等一系列资源
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/geektimeshare/geektime_mp3_2
+>
+> `简介` Go语言核心36讲 Linux性能优化实战 RPC实战与核心原理 SpringCloud微服务项目实战 eBPF核心技术与实战 从0开始学游戏开发 编译原理之美 网络编程实战 技术管理实战36讲 后端技术面试38讲 深入浅出区块链 许式伟的架构课 高并发系统设计40问 技术领导力实战笔记 即时消息技术剖析与实战
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://chai2010.cn/advanced-go-programming-book/index.html
+>
+> `简介` Go语言高级编程(Advanced Go Programming)
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
+
 #### Linux
 
 
@@ -332,6 +352,12 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://www.bookstack.cn/
+>
+> `简介` 书栈网
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 #### WEB安全
 
 > https://github.com/chaitin/SafeLine
@@ -378,6 +404,12 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://www.lxlinux.net/category/resources
+>
+> `简介` 良许linux网
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 ## 一些有趣的学习开源组织
 
 > https://github.com/overnote
@@ -401,6 +433,28 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+## 技术博客
+
+
+> https://github.com/yongxinz/tech-blog
+>
+> `简介` 我的个人技术博客（Python、Django、Docker、Go、Redis、ElasticSearch、Kafka、Linux）
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://ng-tech.icu/books-gallery/
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+## 数学建模
+
+> https://github.com/personqianduixue/Math_Model
+>
+> `简介` 数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法、现代的算法
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 
 
