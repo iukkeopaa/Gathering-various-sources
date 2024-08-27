@@ -1383,7 +1383,7 @@ https://awesome-python.com/
 
 
 
-#### 前端（Vue）
+#### 前端
 
 > https://semi.design/zh-CN/start/getting-started
 >
