@@ -211,6 +211,41 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://www.yuque.com/aceld/mo95lb
+>
+> `简介` 8小时转职Golang工程师
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️、
+
+> https://github.com/darius-khll/golang-developer-roadmap?tab=readme-ov-file
+>
+> `简介` Roadmap to becoming a Go developer in 2020
+>
+> 推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/hackstoic/golang-open-source-projects
+>
+> `简介` 为互联网IT人打造的中文版awesome-go
+>
+> 推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://www.yuque.com/ngyhd/sdqiox
+>
+> `简介` Sean的编程空间
+>
+> 推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/go-nunu/nunu
+>
+> `简介` A CLI tool for building Go applications.
+>
+> 推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/komavideo/LearnGo
+>
+> `简介` Go语言初学入门教学(GoLang)
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 #### Linux
 
@@ -283,6 +318,11 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://github.com/hoanhan101/algo
+>
+> `简介` 101+ coding interview problems in Go
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 #### 书籍
 
@@ -329,6 +369,35 @@
 > https://www.itying.com/category-79-b0-min0-max0-attr0.4916.html
 >
 > `简介` IT营
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://goflys.cn/home
+>
+> `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+## 一些有趣的学习开源组织
+
+> https://github.com/overnote
+>
+> `简介` OverNote
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/talkgo
+>
+> `简介`  TalkGo
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
+## GitHub上一些优秀的博主
+
+> https://github.com/codediodeio
+>
+> `简介`
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
