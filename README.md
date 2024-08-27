@@ -193,9 +193,21 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://github.com/rubyhan1314/Golang-100-Days
+>
+> `简介` Golang - 100天从新手到大师
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 > https://youngxhui.top/
 >
 > `简介` 综合的技术博客
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://hao.golangstack.com/
+>
+> `简介` Golang全栈
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
@@ -398,19 +410,57 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
-#### 高并发和系统架构
+#### 高字开头的和系统架构
 
 > https://pphc.lvwenhan.com/
 >
 > `简介` 高并发的哲学原理
 >
->推荐指数 ⭐️⭐️⭐️⭐️⭐️
+> 推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 > https://tonydeng.github.io/architect-manual/
 >
 > `简介` 架构师手册
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://zq99299.github.io/note-architect/hc/
+>
+> `简介` 高并发系统设计 40 问
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://jiagouyizhan.com/
+>
+> `简介` 架构驿站
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://geektutu.com/post/high-performance-go.html
+>
+> `简介` Go 语言高性能编程
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/rfyiamcool/notes
+>
+> `简介` 🔥 技术笔记 ( 高性能/分布式/kubernetes/golang/kv引擎等 )
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://dunwu.github.io/design/
+>
+> `简介` Design 是个人对于架构的心得和总结
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://dunwu.github.io/design/pages/000a7b/#%E7%A7%92%E6%9D%80%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%A7%A3%E5%86%B3%E6%80%9D%E8%B7%AF
+>
+> `简介` 系统架构面试
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
 #### 综合的掌握
 
 > https://bugstack.cn/
@@ -423,6 +473,12 @@
 > https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#go
 >
 > `简介` 基于项目的教程精选列表
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://offernow.cn/s/language
+> 
+> `简介` 编程语言
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
@@ -445,6 +501,8 @@
 > `简介` 良许linux网
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
 
 #### 一些有趣的学习开源组织
 
@@ -472,6 +530,12 @@
 > https://github.com/codediodeio
 >
 > `简介`
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/mli
+>
+> `简介` 李沐
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
@@ -510,6 +574,12 @@
 > https://duoke360.com/
 >
 > `简介` 多课网
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://www.iteye.com/
+>
+> `简介`
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
