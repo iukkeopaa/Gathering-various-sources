@@ -213,6 +213,8 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+https://awesome-python.com/
+
 #### k8s
 
 > https://jimmysong.io/book/kubernetes-handbook/architecture/perspective/
@@ -749,6 +751,24 @@
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 >
 > https://github.com/krahets/LeetCode-Book
+>
+> https://algo.itcharge.cn/00.Introduction/01.Data-Structures-Algorithms/
+>
+> https://github.com/azl397985856/leetcode
+>
+> https://leetcode.cn/
+>
+> https://acoier.com/about/
+>
+> https://codetop.cc/home
+>
+> https://www.acwing.com/problem/
+>
+> https://www.scikitlearn.com.cn/
+>
+> https://www.scikitlearn.com.cn/
+>
+> http://yuzhuyi.ysepan.com/
 
 #### 书籍
 
@@ -1033,6 +1053,10 @@
 > `简介` DDIA
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
+>
+> https://www.yuque.com/gongxi-wssld/csm31d
+>
+> https://github.com/Java-Edge/Java-Concurrency-Progamming-Tutorial
 
 
 #### 综合的掌握
@@ -1111,6 +1135,7 @@
 > `简介`
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
+> 
 #### Bash or shell
 
 > https://github.com/ruanyf/simple-bash-scripts
@@ -1118,6 +1143,8 @@
 > `简介` A collection of simple Bash scripts
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
+>
+> https://www.shellcheck.net/
 
 #### 一些有趣的学习开源组织
 
