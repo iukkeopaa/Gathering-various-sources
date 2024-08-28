@@ -800,6 +800,12 @@ https://awesome-python.com/
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> http://cxy521.com/
+>
+> `简介`  程序员一站式导航
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 #### 技术路线
 
 > https://www.cnblogs.com/yuncloudjava/p/15331061.html
@@ -1087,6 +1093,8 @@ https://awesome-python.com/
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 >
 > https://github.com/GrowingGit/GitHub-Chinese-Top-Charts
+> 
+
 #### 项目实战
 
 > https://github.com/resumejob/free-project-course
@@ -1386,6 +1394,8 @@ https://awesome-python.com/
 > `简介` 国内顶尖团队的开源地址
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
 #### 博主
 
 > https://github.com/codediodeio
