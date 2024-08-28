@@ -49,6 +49,10 @@
 
 + [Linux](#Linux)
 
++ [Python](#Python)
+
++ [Github高星项目](#Github高星项目)
+
 + [代码注释](#代码注释)
 
 + [在线工具网站](#在线工具网站)
@@ -128,6 +132,12 @@
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://github.com/fffaraz/awesome-cpp
+>
+> `简介` 精选的 C++（或 C）框架、库、资源和闪亮的东西。灵感来自 awesome-...东西
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 #### JAVA
 
 
@@ -143,6 +153,12 @@
 >
 > 推荐指数 ⭐️⭐️⭐️⭐️⭐️、
 
+
+> https://github.com/getify/You-Dont-Know-JS
+>
+> `简介`  关于 JavaScript 的系列丛书
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 
 
@@ -317,7 +333,13 @@ https://awesome-python.com/
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+#### Python
 
+> https://github.com/vinta/awesome-python
+>
+> `简介` 一个很棒的 Python 框架、库、软件和资源的自以为是的列表。
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 
 #### Mycat
@@ -536,6 +558,12 @@ https://awesome-python.com/
 > https://www.modb.pro/db/79021
 >
 > `简介` 做一个实用的集群文件分发脚本 xsync
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/ohmyzsh/ohmyzsh
+>
+> `简介` 🙃 一个令人愉快的社区驱动（有 2,300+ 贡献者）框架，用于管理您的 zsh 配置。包括 300+ 可选插件（rails、git、macOS、hub、docker、homebrew、node、php、python 等）、140+ 主题为您的早晨增添趣味，以及自动更新工具，以便轻松跟上社区的最新更新。
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
@@ -865,6 +893,24 @@ https://awesome-python.com/
 >
 > http://yuzhuyi.ysepan.com/
 
+>  https://github.com/youngyangyang04/leetcode-master
+>
+> `简介`  《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！ 🔥🔥 来看看，你会发现相见恨晚！ 🚀
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/trekhleb/javascript-algorithms
+>
+> `简介` 
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+>  https://github.com/TheAlgorithms/Python
+>
+> `简介`  所有算法都是用 Python 实现的
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 #### 书籍
 
 > https://github.com/singgel/golang
@@ -925,7 +971,19 @@ https://awesome-python.com/
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+>  https://github.com/EbookFoundation/free-programming-books
+>
+> `简介`  📚 免费提供的编程书籍
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+#### 移动端
+
+>  https://github.com/vsouza/awesome-ios
+>
+> `简介`  精选的出色 iOS 生态系统列表，包括 Objective-C 和 Swift 项目
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 #### Docker
 
 > https://docker.easydoc.net/doc/81170005/cCewZWoN/lTKfePfP
@@ -973,6 +1031,44 @@ https://awesome-python.com/
 
 #### 安全
 
+
+#### Github高星项目
+
+>  https://github.com/freeCodeCamp/freeCodeCamp
+>
+> `简介`  freeCodeCamp.org 的开源代码库和课程。免费学习编码。
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+>  https://github.com/sindresorhus/awesome
+>
+> `简介`  😎 关于各种有趣主题的精彩列表
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+>  https://github.com/public-apis/public-apis
+>
+> `简介`  免费 API 的集合列表
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/jwasham/coding-interview-university
+>
+> `简介`  成为软件工程师的完整计算机科学学习计划
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/codecrafters-io/build-your-own-x
+>
+> `简介` 通过从头开始重新创建您最喜欢的技术来掌握编程
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+>  https://github.com/kamranahmedse/developer-roadmap
+> 
+> `简介` 交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 #### 项目实战
 
@@ -1424,6 +1520,18 @@ https://awesome-python.com/
 > https://cssgradient.io/
 >
 > https://html-css-js.com/css/generator/box-shadow/
+
+> https://github.com/facebook/react
+>
+> `简介` 用于 Web 和本机用户界面的库
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+> https://github.com/vuejs/vue
+>
+> `简介`  这是 Vue 2 的仓库。对于 Vue 3
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 #### Less
 
