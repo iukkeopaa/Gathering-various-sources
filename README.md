@@ -37,9 +37,7 @@
 
 + [Mysql](#Mysql)
 
-+ [k8s](#k8s)
-
-+ [awk](#awk)
++ [kubernetes](#kubernetes)
 
 + [Mycat](#Mycat)
 
@@ -67,11 +65,15 @@
 
 + [WEB安全](#WEB安全)
 
++ [密码学](#密码学)
+
++ [安全](#安全)
+
 + [WEB开发](#WEB开发)
 
 + [项目实战](#项目实战)
 
-+ [高字开头的和系统架构](#高字开头的和系统架构)
++ [**高**字开头的和系统架构](#高字开头的和系统架构)
 
 + [微服务](#微服务)
 
@@ -90,8 +92,6 @@
 + [交流论坛](#交流论坛)
 
 + [前端](#前端)
-
-+ [Less](#Less)
 
 + [UI库](#UI库)
 
@@ -309,7 +309,7 @@
 
 https://awesome-python.com/
 
-#### k8s
+#### kubernetes
 
 > https://jimmysong.io/book/kubernetes-handbook/architecture/perspective/
 >
@@ -317,20 +317,8 @@ https://awesome-python.com/
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
-#### awk
-
-> https://www.junmajinlong.com/shell/awk/awk_examples/
->
-> `简介` 18个awk的经典实战案例
->
->推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 
-> https://likegeeks.com/awk-command/
->
-> `简介` 30 Examples for Awk Command in Text Processing
->
->推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
 #### Mycat
 
@@ -605,6 +593,19 @@ https://awesome-python.com/
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://www.junmajinlong.com/shell/awk/awk_examples/
+>
+> `简介` 18个awk的经典实战案例
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
+> https://likegeeks.com/awk-command/
+>
+> `简介` 30 Examples for Awk Command in Text Processing
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 > https://zhuanlan.zhihu.com/p/51749905
 >
 > `简介` Linux 命令详解：SFTP
@@ -770,7 +771,7 @@ https://awesome-python.com/
 > `简介` 史上最全全栈技术大盘点[2024完整版]
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
-#### 专项的精进
+
 
 #### 设计模式
 
@@ -966,6 +967,11 @@ https://awesome-python.com/
 > `简介` 大话WEB开发
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+#### 密码学
+
+
+#### 安全
 
 
 #### 项目实战
