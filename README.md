@@ -569,6 +569,12 @@ https://awesome-python.com/
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://github.com/bregman-arie/devops-exercises
+>
+> `简介` Linux、Jenkins、AWS、SRE、Prometheus、Docker、Python、Ansible、Git、Kubernetes、Terraform、OpenStack、SQL、NoSQL、Azure、GCP、DNS、Elastic、网络、虚拟化。DevOps 面试题
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 > https://github.com/ohmyzsh/ohmyzsh
 >
 > `简介` 🙃 一个令人愉快的社区驱动（有 2,300+ 贡献者）框架，用于管理您的 zsh 配置。包括 300+ 可选插件（rails、git、macOS、hub、docker、homebrew、node、php、python 等）、140+ 主题为您的早晨增添趣味，以及自动更新工具，以便轻松跟上社区的最新更新。
