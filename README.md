@@ -1695,6 +1695,20 @@ https://awesome-python.com/
 
 > https://cdk8s.gitbook.io/github
 
+#### 谷物商城学习资料收集
+
+> https://github.com/zsy0216/guli-mall
+>
+> https://www.yuque.com/zhangshuaiyin/guli-mall
+>
+> https://github.com/1046762075/mall
+>
+> https://github.com/NiceSeason/gulimall-learning
+>
+> https://github.com/zhairui/gulimall
+>
+> https://github.com/raymond-zhao/cat-mall
+
 
 ## 写在最后
 
