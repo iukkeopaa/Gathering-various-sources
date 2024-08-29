@@ -119,6 +119,8 @@
 
 + [事务](#事务)
 
++ [IDEA](#IDEA)
+
 #### C++
 
 
@@ -1688,6 +1690,11 @@ https://awesome-python.com/
 > `简介`
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+#### IDEA
+
+> https://cdk8s.gitbook.io/github
+
 
 ## 写在最后
 
