@@ -1383,6 +1383,12 @@ https://awesome-python.com/
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+> https://github.com/datawhalechina
+>
+> `简介` 数据鲸
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
 > https://github.com/talkgo
 >
 > `简介`  TalkGo
