@@ -95,6 +95,8 @@
 
 + [博主](#博主)
 
++ [Github排名](#Github排名)
+
 + [技术博客](#技术博客)
 
 + [数学建模](#数学建模)
@@ -819,6 +821,12 @@ https://awesome-python.com/
 > `简介` 史上最全全栈技术大盘点[2024完整版]
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+
+
+#### Github排名
+
+> https://evanli.github.io/Github-Ranking/
 
 
 #### 设计模式
