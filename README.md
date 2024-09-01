@@ -53,6 +53,10 @@
 
 + [Go](#Go)
 
++ [SDN](#SDN)
+
++ [CDN](#CDN)
+
 + [Linux](#Linux)
 
 + [Python](#Python)
@@ -1010,6 +1014,40 @@ https://awesome-python.com/
 > `简介`  📚 免费提供的编程书籍
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+>  https://github.com/singgel
+>
+> `简介`  📚 免费提供的编程书籍
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+
+#### SDN 
+
+>  https://sdn.feisky.xyz/
+>
+> `简介`  SDN网络指南（SDN Handbook）
+>
+>推荐指数 ⭐️⭐️⭐️⭐️⭐️
+>
+> https://github.com/sdnds-tw/awesome-sdn
+>
+> https://github.com/kubeovn/kube-ovn
+
+
+#### CDN
+
+>  https://github.com/cdnjs/cdnjs
+>
+> `简介`  🤖 CDN 资产 - #1 免费开源 CDN，旨在让开发人员的生活更轻松。
+>
+> 推荐指数 ⭐️⭐️⭐️⭐️⭐️
+>
+> https://github.com/leandromoreira/cdn-up-and-running
+>
+> https://github.com/projectdiscovery/cdncheck
+>
+> https://github.com/dadi/cdn
+
 
 #### 移动端
 
