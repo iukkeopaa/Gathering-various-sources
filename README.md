@@ -722,6 +722,8 @@ https://awesome-python.com/
 >
 >推荐指数 ⭐️⭐️⭐️⭐️⭐️
 
+https://gto76.github.io/linux-cheatsheet/
+
 #### 代码注释
 
 > https://blog.csdn.net/vbirdbest/article/details/78995793
